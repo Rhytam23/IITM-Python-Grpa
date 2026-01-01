@@ -12,7 +12,7 @@ The repository is organized into 12 weekly folders, with each folder containing 
 
 ## Authors
 
-- This repository is maintained by [ Rhytam](https://github.com/Rhytam-01). For any queries or support, feel free to reach out. 
+- This repository is maintained by [ Rhytam](https://github.com/Rhytam23). For any queries or support, feel free to reach out. 
 
 
 
