@@ -20,3 +20,21 @@ The repository is organized into 12 weekly folders, with each folder containing 
 
 
 
+
+---
+
+## 📖 Project Understanding (Future Reference)
+
+This repository holds solved Graded Programming Assessments (GRPA) for the "Introduction to
+Python" course in IIT Madras's BSc in Data Science program, organized by week.
+
+**Stack:** Python (assessment solutions and notes).
+**Status:** personal coursework archive.
+
+## 🎯 Where This Can Be Used
+
+- Personal revision material for the course.
+- **Not for hackathons, and not for sharing as answers.** These are solutions to graded
+  university assessments. Reusing or distributing them for anyone currently taking the course
+  would be an academic-integrity violation — this repo is a personal record, not a template to
+  build on or a resource to hand to other students.
